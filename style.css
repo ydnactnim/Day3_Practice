@@ -1,0 +1,41 @@
+.first {
+  width: 150px;
+  height: 80px;
+  background-color: antiquewhite;
+}
+
+.second {
+  width: 150px;
+  height: 80px;
+  background-color: antiquewhite;
+}
+
+.third {
+  width: 150px;
+  height: 80px;
+  background-color: antiquewhite;
+}
+
+.fourth {
+  width: 150px;
+  height: 150px;
+  background-color: antiquewhite;
+}
+
+.fourth_sub {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(255, 166, 32);
+}
+
+.fifth {
+  width: 50px;
+  height: 50px;
+  background-color: antiquewhite;
+}
+
+.sixth {
+  width: 150px;
+  height: 150px;
+  background-color: antiquewhite;
+}
