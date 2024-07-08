@@ -1,3 +1,19 @@
+body {
+  font-family: "Black Han Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fa-youtube {
+  color: red;
+  font-size: 50px;
+}
+
+.fa-facebook {
+  color: #1877f2;
+  font-size: 50px;
+}
+
 .first {
   width: 150px;
   height: 80px;
